@@ -4,8 +4,8 @@
    Salman Budha,       Reg: 1812167
 
    To start the app first you need to install EXPO APP on your smartphone whether android or IOS
-   Then open the project and open terminal on VScode and Enter Command "expo start"
-   the app will then run.
+   Then open the project and open terminal on VScode and Enter Command "npm i" to install depencies and then to
+   run app enter command "expo start" the app will then run.
 
 
    Points to be noted:
